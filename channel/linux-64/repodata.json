@@ -1,0 +1,56 @@
+{
+  "info": {},
+  "packages": {
+    "gippy-1.0.0b8-py27hf894d1b_0.tar.bz2": {
+      "build": "py27hf894d1b_0",
+      "build_number": 0,
+      "depends": [
+        "fiona 1.7.4",
+        "jpeg",
+        "numpy 1.12.0",
+        "potrace 1.11",
+        "python >=2.7,<2.8.0a0"
+      ],
+      "license": "Apache 2.0",
+      "md5": "acbd585a16222cb756ec5a091a85975f",
+      "name": "gippy",
+      "sha256": "d1b337b123ca62e40fdea50962fa6abf085d39521eb26add2f82d4266c97bdc0",
+      "sig": null,
+      "size": 4965931,
+      "subdir": "linux-64",
+      "timestamp": 1500316870090,
+      "version": "1.0.0b8"
+    },
+    "libagg-2.5.0-h832b4f1_0.tar.bz2": {
+      "build": "h832b4f1_0",
+      "build_number": 0,
+      "depends": [],
+      "license": "GPL",
+      "md5": "5ad4b0647e0136f7f885b346b062e6d4",
+      "name": "libagg",
+      "sha256": "53323208599339904c4947404c48ddfde40e98a6dd31af80c42136a55ed2bd08",
+      "sig": null,
+      "size": 778489,
+      "subdir": "linux-64",
+      "timestamp": 1500316601356,
+      "version": "2.5.0"
+    },
+    "pypotrace-0.1.3-py27h5dd94a1_0.tar.bz2": {
+      "build": "py27h5dd94a1_0",
+      "build_number": 0,
+      "depends": [
+        "numpy 1.12.0",
+        "python >=2.7,<2.8.0a0"
+      ],
+      "license": "GPL",
+      "md5": "504802d3ffd1da1801b671285c36c427",
+      "name": "pypotrace",
+      "sha256": "282d20b67adf4f65d9b8356e319aec34a7fc752d98c2a359c12ff3d2734dc4f7",
+      "sig": null,
+      "size": 286991,
+      "subdir": "linux-64",
+      "timestamp": 1500316695380,
+      "version": "0.1.3"
+    }
+  }
+}
