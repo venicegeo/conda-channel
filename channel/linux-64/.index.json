@@ -1,4 +1,29 @@
 {
+  "fiona-1.7.0-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "click-plugins", 
+      "cligj", 
+      "libgdal 2.1.0", 
+      "munch", 
+      "numpy", 
+      "python 2.7*", 
+      "setuptools", 
+      "six"
+    ], 
+    "license": "BSD", 
+    "md5": "6f9bfa2da775911d01db4d6ab9d59f6f", 
+    "mtime": 1500476952.4447365, 
+    "name": "fiona", 
+    "platform": "linux", 
+    "sha256": "eda02d023c5fd6c1effa8508dce84d5a8c0837b550628a45b5791c5afc158c50", 
+    "sig": null, 
+    "size": 987006, 
+    "subdir": "linux-64", 
+    "version": "1.7.0"
+  }, 
   "gdal-2.1.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
