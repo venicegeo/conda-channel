@@ -849,6 +849,24 @@
     "timestamp": 1500489747197, 
     "version": "2.7.0"
   }, 
+  "tox-travis-0.8-py27ha72e330_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27ha72e330_0", 
+    "build_number": 0, 
+    "depends": [
+      "python >=2.7,<2.8.0a0"
+    ], 
+    "md5": "8d4439dd2aeddc16574a9e2cb46ef7e4", 
+    "mtime": 1500494425.991436, 
+    "name": "tox-travis", 
+    "platform": "linux", 
+    "sha256": "b7c39b0b61a2c8dce1a67249f2b068b4b2f30945b8de3f369e45be1785637e7d", 
+    "sig": null, 
+    "size": 19256, 
+    "subdir": "linux-64", 
+    "timestamp": 1500494425447, 
+    "version": "0.8"
+  }, 
   "util-linux-2.21-0.tar.bz2": {
     "arch": "x86_64", 
     "build": "0", 
