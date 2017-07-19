@@ -468,20 +468,6 @@
       "subdir": "linux-64",
       "version": "2.9.4"
     },
-    "mkl-2017.0.3-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
-      "depends": [],
-      "license": "proprietary - Intel",
-      "license_family": "Proprietary",
-      "md5": "76cfa5d21e73db338ffccdbe0af8a727",
-      "name": "mkl",
-      "sha256": "ea4339e9663d94e6c5afb773c30c9dfe171e1693e2d0128ed38607fab80f447f",
-      "sig": null,
-      "size": 135839394,
-      "subdir": "linux-64",
-      "version": "2017.0.3"
-    },
     "munch-2.1.1-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
