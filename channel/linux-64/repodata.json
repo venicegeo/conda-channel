@@ -1,6 +1,23 @@
 {
   "info": {},
   "packages": {
+    "gdal-2.1.0-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "libgdal 2.1.0",
+        "numpy",
+        "python 2.7*"
+      ],
+      "license": "MIT",
+      "md5": "f8878eee6b7515c42e9d36969924786d",
+      "name": "gdal",
+      "sha256": "23e182700864ad798ae6c0da03f3021d5c02bc09500a4fd64edc8b26e2d150d3",
+      "sig": null,
+      "size": 1675279,
+      "subdir": "linux-64",
+      "version": "2.1.0"
+    },
     "gippy-1.0.0b8-py27hf894d1b_0.tar.bz2": {
       "build": "py27hf894d1b_0",
       "build_number": 0,
@@ -35,20 +52,42 @@
       "timestamp": 1500316601356,
       "version": "2.5.0"
     },
-    "numpy-1.13.1-blas_openblash15b0ad2_200.tar.bz2": {
-      "build": "blas_openblash15b0ad2_200",
-      "build_number": 200,
-      "depends": [],
-      "features": "blas_openblas",
-      "license": "BSD 3-Clause",
-      "md5": "9e393fc41d4ae7ab19e43aa5b85994cd",
+    "numpy-1.13.1-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "mkl 2017.0.*",
+        "python 2.7*"
+      ],
+      "license": "BSD",
+      "md5": "cfdf78aec55bf85987b74b4a3338d960",
       "name": "numpy",
-      "sha256": "965b2a2d8e75a22dfb1596b7473958f3658f17392bf8741d94b6d74a5096a808",
+      "sha256": "649f9b6fe75f4212e9b3b6f5015672739967ae61bdacc5e2faed7319e50075ce",
       "sig": null,
-      "size": 11602798,
+      "size": 7141185,
       "subdir": "linux-64",
-      "timestamp": 1500472186460,
       "version": "1.13.1"
+    },
+    "pillow-4.2.1-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "freetype 2.5.*",
+        "jpeg 9*",
+        "libtiff 4.0.*",
+        "olefile",
+        "python 2.7*",
+        "zlib 1.2.*"
+      ],
+      "license": "PIL license",
+      "license_family": "Other",
+      "md5": "9acf3fd09a2b0751581905298fe97f3c",
+      "name": "pillow",
+      "sha256": "081fbee885bc57906cadc396c9f6a6bd6d5a2e9199a49c8940f9e90306e340e9",
+      "sig": null,
+      "size": 863591,
+      "subdir": "linux-64",
+      "version": "4.2.1"
     },
     "pypotrace-0.1.3-py27h5dd94a1_0.tar.bz2": {
       "build": "py27h5dd94a1_0",
