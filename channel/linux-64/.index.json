@@ -56,25 +56,25 @@
     "subdir": "linux-64", 
     "version": "0.4.0"
   }, 
-  "curl-7.52.1-0.tar.bz2": {
+  "curl-7.49.0-1.tar.bz2": {
     "arch": "x86_64", 
-    "build": "0", 
-    "build_number": 0, 
+    "build": "1", 
+    "build_number": 1, 
     "depends": [
-      "openssl 1.0.*", 
+      "openssl 1.0.2*", 
       "zlib 1.2.*"
     ], 
-    "license": "MIT/X derivate (http://curl.haxx.se/docs/copyright.html)", 
+    "license": "MIT/X derivate", 
     "license_family": "MIT", 
-    "md5": "c326aa59a23bfa8263bdadf47d03f796", 
-    "mtime": 1500484511.5502012, 
+    "md5": "f54b5ebd9b0f9c2d0f7348926c9417ea", 
+    "mtime": 1500486393.4586852, 
     "name": "curl", 
     "platform": "linux", 
-    "sha256": "b72367687e0129f6e9c990a9c8aaf8955a3a4bcbfad0b2169cde439dc39509a6", 
+    "sha256": "a0df0eafa1c565518466b5d6586bb0834d97b82d91f7e571ccde3ad1e63204c4", 
     "sig": null, 
-    "size": 572457, 
+    "size": 555756, 
     "subdir": "linux-64", 
-    "version": "7.52.1"
+    "version": "7.49.0"
   }, 
   "expat-2.2.1-0.tar.bz2": {
     "arch": "x86_64", 
@@ -117,24 +117,25 @@
     "subdir": "linux-64", 
     "version": "1.7.4"
   }, 
-  "freetype-2.7-1.tar.bz2": {
+  "freetype-2.5.5-2.tar.bz2": {
     "arch": "x86_64", 
-    "build": "1", 
-    "build_number": 1, 
+    "build": "2", 
+    "build_number": 2, 
     "depends": [
-      "libpng >=1.6.28,<1.7", 
+      "libpng >=1.6.27,<1.7", 
       "zlib 1.2.*"
     ], 
-    "license": "GPL-2.0 and FreeType (http://freetype.sourceforge.net/FTL.TXT)", 
-    "md5": "13dc06419eb4faae3bcb853a78857c76", 
-    "mtime": 1500484632.1744833, 
+    "license": "FreeType License", 
+    "license_family": "Other", 
+    "md5": "cb3923944a73c59b557cd85a8c55fcb3", 
+    "mtime": 1500486363.0835052, 
     "name": "freetype", 
     "platform": "linux", 
-    "sha256": "c7b3c4e687b997d9e6e6bdd8d75f84ab8097950649962afcf3f9449b4855822e", 
+    "sha256": "a1013f52710516152901b43702a1cb9e0e90bae953a1fde7da94d0bc6ba94f4e", 
     "sig": null, 
-    "size": 2916507, 
+    "size": 2661305, 
     "subdir": "linux-64", 
-    "version": "2.7"
+    "version": "2.5.5"
   }, 
   "freexl-1.0.2-1.tar.bz2": {
     "arch": "x86_64", 
@@ -270,25 +271,24 @@
     "subdir": "linux-64", 
     "version": "4.2.12"
   }, 
-  "hdf5-1.10.1-0.tar.bz2": {
+  "hdf5-1.8.17-2.tar.bz2": {
     "arch": "x86_64", 
-    "build": "0", 
-    "build_number": 0, 
+    "build": "2", 
+    "build_number": 2, 
     "depends": [
-      "libgfortran", 
       "zlib 1.2.*"
     ], 
-    "license": "HDF5", 
+    "license": "BSD-like", 
     "license_family": "BSD", 
-    "md5": "c4348c77a8a2e4d1572f752481ce8c02", 
-    "mtime": 1500484697.0188892, 
+    "md5": "6054293ac9f00051587c64b134f00fc9", 
+    "mtime": 1500486342.5532453, 
     "name": "hdf5", 
     "platform": "linux", 
-    "sha256": "71dc92ecf2315c166e58c0e4b592567942cb8a5705b65d4e463f7064c5d04b34", 
+    "sha256": "1b724b68db4df79bd3f790a26f76712f3754804e800587db6ee6e429605bae60", 
     "sig": null, 
-    "size": 5240935, 
+    "size": 2065011, 
     "subdir": "linux-64", 
-    "version": "1.10.1"
+    "version": "1.8.17"
   }, 
   "jpeg-9b-0.tar.bz2": {
     "arch": "x86_64", 
@@ -322,23 +322,23 @@
     "subdir": "linux-64", 
     "version": "0.12"
   }, 
-  "kealib-1.4.7-2.tar.bz2": {
+  "kealib-1.4.6-0.tar.bz2": {
     "arch": "x86_64", 
-    "build": "2", 
-    "build_number": 2, 
+    "build": "0", 
+    "build_number": 0, 
     "depends": [
-      "hdf5 1.8.18|1.8.18.*"
+      "hdf5 1.8.17"
     ], 
     "license": "MIT", 
-    "md5": "c3ccf485d826e5bb1aa73faa01518741", 
-    "mtime": 1500484757.4250772, 
+    "md5": "ac47ad3952f080a12716c3697424564c", 
+    "mtime": 1500486301.7088332, 
     "name": "kealib", 
     "platform": "linux", 
-    "sha256": "71547d0bc233146530321734524106df56cfacca78afbcbbddddf85c4b832c52", 
+    "sha256": "ed825668ddcbeab137e9436c193486620c74138c0d734f3bfe43dc17801b398b", 
     "sig": null, 
-    "size": 176077, 
+    "size": 209028, 
     "subdir": "linux-64", 
-    "version": "1.4.7"
+    "version": "1.4.6"
   }, 
   "libagg-2.5.0-h832b4f1_0.tar.bz2": {
     "arch": "x86_64", 
@@ -393,26 +393,27 @@
     "subdir": "linux-64", 
     "version": "1.14"
   }, 
-  "libnetcdf-4.4.1.1-5.tar.bz2": {
+  "libnetcdf-4.4.1-1.tar.bz2": {
     "arch": "x86_64", 
-    "build": "5", 
-    "build_number": 5, 
+    "build": "1", 
+    "build_number": 1, 
     "depends": [
-      "curl", 
-      "hdf4", 
-      "hdf5 1.8.18|1.8.18.*", 
+      "curl 7.49.*", 
+      "hdf4 4.2.*", 
+      "hdf5 1.8.17", 
+      "jpeg 9*", 
       "zlib 1.2.*"
     ], 
     "license": "MIT", 
-    "md5": "a75a893b757dba5dd93eb14b53067e24", 
-    "mtime": 1500484843.5401132, 
+    "md5": "207413b03ae90ecc92ce6a73ac2ff8f2", 
+    "mtime": 1500486235.3436673, 
     "name": "libnetcdf", 
     "platform": "linux", 
-    "sha256": "94f4be3f5b7b5c3baa36a415bbf25a28ea3c522900b3b5621ba129da199e65c7", 
+    "sha256": "be029668f50dc5380d466d83d65d68203069d711ae7d7f9f671ad3584c5c746e", 
     "sig": null, 
-    "size": 2049399, 
+    "size": 874932, 
     "subdir": "linux-64", 
-    "version": "4.4.1.1"
+    "version": "4.4.1"
   }, 
   "libpng-1.6.28-0.tar.bz2": {
     "arch": "x86_64", 
@@ -494,24 +495,23 @@
     "subdir": "linux-64", 
     "version": "4.0.6"
   }, 
-  "libxml2-2.9.4-4.tar.bz2": {
+  "libxml2-2.9.4-0.tar.bz2": {
     "arch": "x86_64", 
-    "build": "4", 
-    "build_number": 4, 
+    "build": "0", 
+    "build_number": 0, 
     "depends": [
-      "icu 58.*", 
       "libiconv", 
-      "xz 5.2.*", 
       "zlib 1.2.*"
     ], 
     "license": "MIT", 
-    "md5": "5b6910ea2b06b3bed1d20229741bda42", 
-    "mtime": 1500484899.6601593, 
+    "license_family": "MIT", 
+    "md5": "750025fc9f5f623446bdafa7c726c61d", 
+    "mtime": 1500486175.4497352, 
     "name": "libxml2", 
     "platform": "linux", 
-    "sha256": "43eba1146b8f46cba47c9ef0e0155d3b3ff753049479ad794ad95187e059dae4", 
+    "sha256": "24b32f94c9188660508290e897ee36c31036965951b2d0d6f23480bfcf5114c8", 
     "sig": null, 
-    "size": 5203941, 
+    "size": 3874331, 
     "subdir": "linux-64", 
     "version": "2.9.4"
   }, 
@@ -534,7 +534,7 @@
     "subdir": "linux-64", 
     "version": "2.1.1"
   }, 
-  "numpy-1.13.1-py27_0.tar.bz2": {
+  "numpy-1.12.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
     "build_number": 0, 
@@ -543,15 +543,15 @@
       "python 2.7*"
     ], 
     "license": "BSD", 
-    "md5": "cfdf78aec55bf85987b74b4a3338d960", 
-    "mtime": 1500484295.7423513, 
+    "md5": "1538aa694c51ed89be126f6943c42f14", 
+    "mtime": 1500486148.8644493, 
     "name": "numpy", 
     "platform": "linux", 
-    "sha256": "649f9b6fe75f4212e9b3b6f5015672739967ae61bdacc5e2faed7319e50075ce", 
+    "sha256": "9ec0da4d4c4890581e1b33d2d1a69e9a8e6d91691b71028b104879f88b24ae65", 
     "sig": null, 
-    "size": 7141185, 
+    "size": 6965177, 
     "subdir": "linux-64", 
-    "version": "1.13.1"
+    "version": "1.12.0"
   }, 
   "olefile-0.44-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -596,18 +596,17 @@
     "arch": "x86_64", 
     "build": "0", 
     "build_number": 0, 
-    "depends": [
-      "ca-certificates"
-    ], 
-    "license": "OpenSSL", 
+    "depends": [], 
+    "license": "Apache-style", 
     "license_family": "Apache", 
-    "md5": "be9a1e5d4d3c5e3097a45570ba72b540", 
-    "mtime": 1500484995.4640372, 
+    "md5": "4b777ebd155103c6ca3c8abff32a95b6", 
+    "mtime": 1500486114.6433473, 
     "name": "openssl", 
     "platform": "linux", 
-    "sha256": "0dba47ded2b7e32be6c102426f158df5f7b8ef2cecb08a7b242571b3c6f48729", 
+    "requires": [], 
+    "sha256": "69d6d515e951aaacb88cc9209bfbca8fa9fcbf2ae653454a465bff4550269ef6", 
     "sig": null, 
-    "size": 3680689, 
+    "size": 3340883, 
     "subdir": "linux-64", 
     "version": "1.0.2l"
   }, 
@@ -707,23 +706,20 @@
     "timestamp": 1500469155243, 
     "version": "1.9.5.1"
   }, 
-  "readline-7.0-0.tar.bz2": {
+  "readline-6.2-2.tar.bz2": {
     "arch": "x86_64", 
-    "build": "0", 
-    "build_number": 0, 
-    "depends": [
-      "ncurses 5.9*"
-    ], 
-    "license": "GPL3", 
-    "md5": "49feb9bb9ab65a073b0e99d6b51a5534", 
-    "mtime": 1500485045.2088974, 
+    "build": "2", 
+    "build_number": 2, 
+    "depends": [], 
+    "md5": "d050607fb2934282470d06872e0e6cce", 
+    "mtime": 1500486081.3947313, 
     "name": "readline", 
     "platform": "linux", 
-    "sha256": "fd93a82a57a23c46722ef5e3b0f0f86925f5f123d3fa0f09f46f203006f4ede1", 
+    "requires": [], 
+    "sha256": "38d9bdfc70a9d606375bf7a925f2636491fd2eb6c73a8611e1c20b13c667f7fc", 
     "sig": null, 
-    "size": 858552, 
-    "subdir": "linux-64", 
-    "version": "7.0"
+    "size": 620292, 
+    "version": "6.2"
   }, 
   "setuptools-33.1.1-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -764,39 +760,55 @@
     "subdir": "linux-64", 
     "version": "1.10.0"
   }, 
-  "sqlite-3.16.2-0.tar.bz2": {
+  "sqlite-3.13.0-0.tar.bz2": {
     "arch": "x86_64", 
     "build": "0", 
     "build_number": 0, 
     "depends": [], 
     "license": "Public-Domain (http://www.sqlite.org/copyright.html)", 
     "license_family": "Public-Domain", 
-    "md5": "ead819fab94823f8293e3f0183399701", 
-    "mtime": 1500485113.0307913, 
+    "md5": "ceb2d63b0dc2ec8a2e1da9378f07ab98", 
+    "mtime": 1500486011.2676852, 
     "name": "sqlite", 
     "platform": "linux", 
-    "sha256": "65f4fedbf1f3770cfb982c2fb367e087e4826a1fc2140e78e1a2bddc617eed47", 
+    "sha256": "91377f9b590b7c5e03c57a74d594b5867789908b2dbf836fd34341b9a80915fc", 
     "sig": null, 
-    "size": 5269792, 
+    "size": 4167817, 
     "subdir": "linux-64", 
-    "version": "3.16.2"
+    "version": "3.13.0"
   }, 
-  "tk-8.6.6-5.tar.bz2": {
+  "tk-8.5.18-0.tar.bz2": {
     "arch": "x86_64", 
-    "build": "5", 
-    "build_number": 5, 
+    "build": "0", 
+    "build_number": 0, 
     "depends": [], 
-    "license": "Tcl/Tk", 
-    "license_family": "BSD", 
-    "md5": "8a2b2313c22cba035293b86181e6c03f", 
-    "mtime": 1500485128.3704572, 
+    "license": "BSD-style", 
+    "md5": "902f0fd689a01a835c9e69aefbe58fdd", 
+    "mtime": 1500485981.6889033, 
     "name": "tk", 
     "platform": "linux", 
-    "sha256": "402505080dc1314c49d579528c384ab4d4ee90b66636b756f29118fefb92d4da", 
+    "requires": [], 
+    "sha256": "bda9d6211dddf4470fb22f333aeaf331e13ee7b110bc3c4fae3dc618d60dded8", 
     "sig": null, 
-    "size": 3238293, 
+    "size": 1960193, 
+    "version": "8.5.18"
+  }, 
+  "util-linux-2.21-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
+    "license_family": "GPL2", 
+    "md5": "148a45dc4ecf5625d5017541ca1c0b90", 
+    "mtime": 1500486046.8254552, 
+    "name": "util-linux", 
+    "platform": "linux", 
+    "requires": [], 
+    "sha256": "816eb02d894944d5af69030ed0f765b525a5a6a6d45f4e0079dd15884ecab0b8", 
+    "sig": null, 
+    "size": 35933, 
     "subdir": "linux-64", 
-    "version": "8.6.6"
+    "version": "2.21"
   }, 
   "wheel-0.29.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -817,22 +829,20 @@
     "subdir": "linux-64", 
     "version": "0.29.0"
   }, 
-  "xerces-c-3.1.4-3.tar.bz2": {
+  "xerces-c-3.1.4-0.tar.bz2": {
     "arch": "x86_64", 
-    "build": "3", 
-    "build_number": 3, 
-    "depends": [
-      "icu 58.*"
-    ], 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
     "license": "Apache 2.0", 
     "license_family": "Apache", 
-    "md5": "a650a18d9c57170c4b901e8cf48b7893", 
-    "mtime": 1500485207.1858451, 
+    "md5": "c7e781b0cc4329884432fa9914127471", 
+    "mtime": 1500486032.0540733, 
     "name": "xerces-c", 
     "platform": "linux", 
-    "sha256": "34924dc63d6d3c14b58fc04d0ef0f8cfc5922be2fff4e2da0aa3411eb541926b", 
+    "sha256": "77d14d794f3a0020fa7053ac35d06943a84a41d8b20db0df8ec3f76f2e611e24", 
     "sig": null, 
-    "size": 4073999, 
+    "size": 8377650, 
     "subdir": "linux-64", 
     "version": "3.1.4"
   }, 
