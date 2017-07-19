@@ -24,6 +24,24 @@
     "subdir": "linux-64", 
     "version": "1.7.4"
   }, 
+  "freexl-1.0.2-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [
+      "libiconv"
+    ], 
+    "license": "LGPL-2.1", 
+    "md5": "a500a750fa00436de152d4791b00bae9", 
+    "mtime": 1500479025.1410506, 
+    "name": "freexl", 
+    "platform": "linux", 
+    "sha256": "c6b3abe51933e4423b11505addb289ff7f96fe2fcf4eebe44b1fc9103191570c", 
+    "sig": null, 
+    "size": 121964, 
+    "subdir": "linux-64", 
+    "version": "1.0.2"
+  }, 
   "gdal-2.1.3-np112py27_2.tar.bz2": {
     "arch": "x86_64", 
     "build": "np112py27_2", 
@@ -65,6 +83,22 @@
     "subdir": "linux-64", 
     "version": "2.1.3"
   }, 
+  "giflib-5.1.4-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "ca4fed995b64887837b23e58af690858", 
+    "mtime": 1500479044.2570505, 
+    "name": "giflib", 
+    "platform": "linux", 
+    "sha256": "9834573714033c00f049d07e6188a11ad3124284a4e4d968bc14c5076a7fdef9", 
+    "sig": null, 
+    "size": 204861, 
+    "subdir": "linux-64", 
+    "version": "5.1.4"
+  }, 
   "gippy-1.0.0b8-py27hf894d1b_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27hf894d1b_0", 
@@ -88,6 +122,22 @@
     "timestamp": 1500316870090, 
     "version": "1.0.0b8"
   }, 
+  "json-c-0.12-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "cdae8b4d0f9f1c3334813a4961cfdfb3", 
+    "mtime": 1500479059.6490505, 
+    "name": "json-c", 
+    "platform": "linux", 
+    "sha256": "1467bbe956ca08720cf435aaafc8e8a42c7aad04ed6261ed53f143c712fefdf5", 
+    "sig": null, 
+    "size": 96401, 
+    "subdir": "linux-64", 
+    "version": "0.12"
+  }, 
   "libagg-2.5.0-h832b4f1_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "h832b4f1_0", 
@@ -104,6 +154,67 @@
     "subdir": "linux-64", 
     "timestamp": 1500316601356, 
     "version": "2.5.0"
+  }, 
+  "libdap4-3.18.3-2.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "2", 
+    "build_number": 2, 
+    "depends": [
+      "curl", 
+      "libxml2 2.9.*", 
+      "util-linux"
+    ], 
+    "license": "GNU LGPL", 
+    "md5": "94fd6e0411b3065b0fdbcb89ad9d4ce1", 
+    "mtime": 1500479111.8970504, 
+    "name": "libdap4", 
+    "platform": "linux", 
+    "sha256": "89c84b5e80122582789605a503506eeda1336d8c3988d68a93b8b1a003217fba", 
+    "sig": null, 
+    "size": 15989872, 
+    "subdir": "linux-64", 
+    "version": "3.18.3"
+  }, 
+  "libpng-1.6.28-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [
+      "zlib 1.2.*"
+    ], 
+    "license": "zlib/libpng", 
+    "md5": "e3fe20644b2158ee5b3b9522cd240457", 
+    "mtime": 1500479114.9610505, 
+    "name": "libpng", 
+    "platform": "linux", 
+    "sha256": "7b701754dd693f2f17385ca1afece912398151adccb8ee2bda5d6dbaa0277e48", 
+    "sig": null, 
+    "size": 307381, 
+    "subdir": "linux-64", 
+    "version": "1.6.28"
+  }, 
+  "libspatialite-4.3.0a-15.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "15", 
+    "build_number": 15, 
+    "depends": [
+      "freexl", 
+      "geos 3.5.1", 
+      "libxml2 2.9.*", 
+      "proj4 4.9.3", 
+      "sqlite 3.13.*", 
+      "zlib 1.2.*"
+    ], 
+    "license": "LGPL-2.1", 
+    "md5": "8dd21bc7a31dfc74b3ec06a160e589fc", 
+    "mtime": 1500479150.2610505, 
+    "name": "libspatialite", 
+    "platform": "linux", 
+    "sha256": "2cb0cb65ad46af8570817dfe3d7d7a218b432e09d68630bec76e99b61323b9ac", 
+    "sig": null, 
+    "size": 4842247, 
+    "subdir": "linux-64", 
+    "version": "4.3.0a"
   }, 
   "numpy-1.13.1-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -123,6 +234,26 @@
     "size": 7141185, 
     "subdir": "linux-64", 
     "version": "1.13.1"
+  }, 
+  "openjpeg-2.1.2-3.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "3", 
+    "build_number": 3, 
+    "depends": [
+      "libpng >=1.6.28,<1.7", 
+      "libtiff 4.0.*", 
+      "zlib 1.2.*"
+    ], 
+    "license": "BSD 2-clauses", 
+    "md5": "4cb680192eb82ad666e19fd2fe78e47c", 
+    "mtime": 1500479162.2730505, 
+    "name": "openjpeg", 
+    "platform": "linux", 
+    "sha256": "bd4830328607510673b4811b5b482e1f5d8c6ef5689e3b9250c2b2f0fb91ba2f", 
+    "sig": null, 
+    "size": 230091, 
+    "subdir": "linux-64", 
+    "version": "2.1.2"
   }, 
   "pillow-4.2.1-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -147,6 +278,22 @@
     "size": 863591, 
     "subdir": "linux-64", 
     "version": "4.2.1"
+  }, 
+  "proj4-4.9.3-4.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "4", 
+    "build_number": 4, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "be6f0772502d6b7b7bec250c2f947c31", 
+    "mtime": 1500479187.8090506, 
+    "name": "proj4", 
+    "platform": "linux", 
+    "sha256": "134401188f22c19f51661e4844ec9c96f83dc90eea5bd1e1b21f8b060f5e08f8", 
+    "sig": null, 
+    "size": 4142629, 
+    "subdir": "linux-64", 
+    "version": "4.9.3"
   }, 
   "pypotrace-0.1.3-py27h5dd94a1_0.tar.bz2": {
     "arch": "x86_64", 
