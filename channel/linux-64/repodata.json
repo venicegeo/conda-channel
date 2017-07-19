@@ -76,6 +76,19 @@
       "subdir": "linux-64",
       "version": "2.1.3"
     },
+    "geos-3.5.1-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [],
+      "license": "LGPLv2.1",
+      "md5": "b27a252f717065652e670734c2554d65",
+      "name": "geos",
+      "sha256": "ca0227e75cfe032da4b20817e4c19eff6c5c2f8f61cff82600ebfa44ea3edba3",
+      "sig": null,
+      "size": 20474920,
+      "subdir": "linux-64",
+      "version": "3.5.1"
+    },
     "giflib-5.1.4-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
