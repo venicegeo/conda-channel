@@ -1,4 +1,23 @@
 {
+  "certifi-2016.2.28-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "ISC", 
+    "license_family": "Other", 
+    "md5": "c12007aa778e54257d22201a8f1de582", 
+    "mtime": 1500486874.0148432, 
+    "name": "certifi", 
+    "platform": "linux", 
+    "sha256": "f47298c36d1a914a19dfb3aa2899b6e35b16e2763bb0da6b2715bf065977c105", 
+    "sig": null, 
+    "size": 215856, 
+    "subdir": "linux-64", 
+    "version": "2016.2.28"
+  }, 
   "click-6.7-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -340,6 +359,22 @@
     "subdir": "linux-64", 
     "version": "1.4.6"
   }, 
+  "krb5-1.13.2-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "0dbae411858a59ad0dbb8a7727a9686e", 
+    "mtime": 1500486271.9819772, 
+    "name": "krb5", 
+    "platform": "linux", 
+    "requires": [], 
+    "sha256": "2f6d830c0c1cfeb8a93a159ef013418e2f325a5a64722a0e80cbcc22d42533ea", 
+    "sig": null, 
+    "size": 3713825, 
+    "version": "1.13.2"
+  }, 
   "libagg-2.5.0-h832b4f1_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "h832b4f1_0", 
@@ -514,6 +549,23 @@
     "size": 3874331, 
     "subdir": "linux-64", 
     "version": "2.9.4"
+  }, 
+  "mkl-2017.0.3-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
+    "license": "proprietary - Intel", 
+    "license_family": "Proprietary", 
+    "md5": "76cfa5d21e73db338ffccdbe0af8a727", 
+    "mtime": 1500486208.8104072, 
+    "name": "mkl", 
+    "platform": "linux", 
+    "sha256": "ea4339e9663d94e6c5afb773c30c9dfe171e1693e2d0128ed38607fab80f447f", 
+    "sig": null, 
+    "size": 135839394, 
+    "subdir": "linux-64", 
+    "version": "2017.0.3"
   }, 
   "munch-2.1.1-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -792,6 +844,27 @@
     "sig": null, 
     "size": 1960193, 
     "version": "8.5.18"
+  }, 
+  "tox-2.7.0-py27h3c00e0f_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27h3c00e0f_0", 
+    "build_number": 0, 
+    "depends": [
+      "pluggy 0.4.0", 
+      "py 1.4.17", 
+      "python >=2.7,<2.8.0a0", 
+      "virtualenv 15.1.0"
+    ], 
+    "md5": "0781c2a1d741701982419ef77a5c1de7", 
+    "mtime": 1500489748.043436, 
+    "name": "tox", 
+    "platform": "linux", 
+    "sha256": "02b07497885a62a66555de50d2e262e5c5fc656d4a212481a54ff2b53cc1bd6d", 
+    "sig": null, 
+    "size": 74928, 
+    "subdir": "linux-64", 
+    "timestamp": 1500489747197, 
+    "version": "2.7.0"
   }, 
   "util-linux-2.21-0.tar.bz2": {
     "arch": "x86_64", 
