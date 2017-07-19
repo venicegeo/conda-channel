@@ -1,7 +1,7 @@
 applications:
 - name: conda-channel
   host: conda-channel
-  command: ./wh-sandbox channel
+  command: ./conda-channel channel
   health_check_type: none
   memory: 1G
   timeout: 100
