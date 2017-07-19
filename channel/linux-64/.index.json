@@ -12,7 +12,7 @@
     ], 
     "license": "Apache 2.0", 
     "md5": "acbd585a16222cb756ec5a091a85975f", 
-    "mtime": 1500316872.550197, 
+    "mtime": 1500472782.612977, 
     "name": "gippy", 
     "platform": "linux", 
     "sha256": "d1b337b123ca62e40fdea50962fa6abf085d39521eb26add2f82d4266c97bdc0", 
@@ -29,7 +29,7 @@
     "depends": [], 
     "license": "GPL", 
     "md5": "5ad4b0647e0136f7f885b346b062e6d4", 
-    "mtime": 1500316602.089785, 
+    "mtime": 1500472782.6149771, 
     "name": "libagg", 
     "platform": "linux", 
     "sha256": "53323208599339904c4947404c48ddfde40e98a6dd31af80c42136a55ed2bd08", 
@@ -38,6 +38,24 @@
     "subdir": "linux-64", 
     "timestamp": 1500316601356, 
     "version": "2.5.0"
+  }, 
+  "numpy-1.13.1-blas_openblash15b0ad2_200.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "blas_openblash15b0ad2_200", 
+    "build_number": 200, 
+    "depends": [], 
+    "features": "blas_openblas", 
+    "license": "BSD 3-Clause", 
+    "md5": "9e393fc41d4ae7ab19e43aa5b85994cd", 
+    "mtime": 1500472830.2361417, 
+    "name": "numpy", 
+    "platform": "linux", 
+    "sha256": "965b2a2d8e75a22dfb1596b7473958f3658f17392bf8741d94b6d74a5096a808", 
+    "sig": null, 
+    "size": 11602798, 
+    "subdir": "linux-64", 
+    "timestamp": 1500472186460, 
+    "version": "1.13.1"
   }, 
   "pypotrace-0.1.3-py27h5dd94a1_0.tar.bz2": {
     "arch": "x86_64", 
@@ -49,7 +67,7 @@
     ], 
     "license": "GPL", 
     "md5": "504802d3ffd1da1801b671285c36c427", 
-    "mtime": 1500316695.959514, 
+    "mtime": 1500472782.6149771, 
     "name": "pypotrace", 
     "platform": "linux", 
     "sha256": "282d20b67adf4f65d9b8356e319aec34a7fc752d98c2a359c12ff3d2734dc4f7", 
@@ -58,5 +76,25 @@
     "subdir": "linux-64", 
     "timestamp": 1500316695380, 
     "version": "0.1.3"
+  }, 
+  "pyproj-1.9.5.1-py27h4f4d757_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27h4f4d757_0", 
+    "build_number": 0, 
+    "depends": [
+      "numpy", 
+      "python >=2.7,<2.8.0a0"
+    ], 
+    "license": "OSI", 
+    "md5": "fbb10f5a9f4b148a2582e9cb2c97deb7", 
+    "mtime": 1500472830.2371416, 
+    "name": "pyproj", 
+    "platform": "linux", 
+    "sha256": "0edafc27437a4cd7ef17b8aa5931b510dad032480866ba26e3434818ece0d585", 
+    "sig": null, 
+    "size": 3540003, 
+    "subdir": "linux-64", 
+    "timestamp": 1500469155243, 
+    "version": "1.9.5.1"
   }
 }
