@@ -597,6 +597,36 @@
       "subdir": "linux-64",
       "version": "4.2.1"
     },
+    "pip-9.0.1-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*",
+        "setuptools",
+        "wheel"
+      ],
+      "license": "MIT",
+      "md5": "f3429acd1eb9b2654fab5d2722317036",
+      "name": "pip",
+      "sha256": "12b816bb7c16e0f759f2ff89e0be33c331e2da8648b32d1991b6b764e436a831",
+      "sig": null,
+      "size": 1637678,
+      "subdir": "linux-64",
+      "version": "9.0.1"
+    },
+    "potrace-1.11-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "GPL",
+      "md5": "84986a563d68ec459af9bbd9c810fe4d",
+      "name": "potrace",
+      "sha256": "4f1ef0f9db21d40a9c24f31d6851a3b66165bfb0db44e1583d402ef4110faa4b",
+      "sig": null,
+      "size": 278092,
+      "subdir": "linux-64",
+      "version": "1.11"
+    },
     "proj4-4.9.3-4.tar.bz2": {
       "build": "4",
       "build_number": 4,
