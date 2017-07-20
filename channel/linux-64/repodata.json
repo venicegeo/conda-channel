@@ -705,6 +705,25 @@
       "size": 620292,
       "version": "6.2"
     },
+    "requests-mock-1.0.0-py35hec7834e_0.tar.bz2": {
+      "build": "py35hec7834e_0",
+      "build_number": 0,
+      "depends": [
+        "pbr",
+        "python >=3.5,<3.6.0a0",
+        "requests >=1.1",
+        "six"
+      ],
+      "license": "Apache Software License",
+      "md5": "f936079692a3e414b5c9e018a802ed42",
+      "name": "requests-mock",
+      "sha256": "69f4e9ea9c10af99f4ff323be354d3c51b8cf49ab0039be87e86e868e79145c7",
+      "sig": null,
+      "size": 36895,
+      "subdir": "linux-64",
+      "timestamp": 1500570171740,
+      "version": "1.0.0"
+    },
     "requests-mock-1.0.0-py36h6808ab9_0.tar.bz2": {
       "build": "py36h6808ab9_0",
       "build_number": 0,
