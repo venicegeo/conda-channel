@@ -111,6 +111,24 @@
     "subdir": "linux-64", 
     "version": "2.2.1"
   }, 
+  "eyed3-0.8-py27h1619291_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27h1619291_0", 
+    "build_number": 0, 
+    "depends": [
+      "python >=2.7,<2.8.0a0"
+    ], 
+    "md5": "d209f1915308324fb30a65a294608d45", 
+    "mtime": 1500536218.535777, 
+    "name": "eyed3", 
+    "platform": "linux", 
+    "sha256": "248e942d277cbc0c762ceba07be63e1d6587c0b3dc1a941c9722708102ee6323", 
+    "sig": null, 
+    "size": 227803, 
+    "subdir": "linux-64", 
+    "timestamp": 1500536218078, 
+    "version": "0.8"
+  }, 
   "fiona-1.7.4-np112py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "np112py27_0", 
