@@ -705,6 +705,25 @@
       "size": 620292,
       "version": "6.2"
     },
+    "requests-mock-1.0.0-py36h6808ab9_0.tar.bz2": {
+      "build": "py36h6808ab9_0",
+      "build_number": 0,
+      "depends": [
+        "pbr",
+        "python >=3.6,<3.7.0a0",
+        "requests >=1.1",
+        "six"
+      ],
+      "license": "Apache Software License",
+      "md5": "865e10a509cb062d32955f6b33ce8ce1",
+      "name": "requests-mock",
+      "sha256": "09c7aa3b776be7f74ed397e1029fb01b10977a2f196d56415283cbcebef54851",
+      "sig": null,
+      "size": 36894,
+      "subdir": "linux-64",
+      "timestamp": 1500569666718,
+      "version": "1.0.0"
+    },
     "requests-mock-1.1.0-py27h36c596b_0.tar.bz2": {
       "build": "py27h36c596b_0",
       "build_number": 0,
@@ -723,6 +742,25 @@
       "subdir": "linux-64",
       "timestamp": 1500534723637,
       "version": "1.1.0"
+    },
+    "requests-mock-1.3.0-py36hdf6c73c_0.tar.bz2": {
+      "build": "py36hdf6c73c_0",
+      "build_number": 0,
+      "depends": [
+        "pbr",
+        "python >=3.6,<3.7.0a0",
+        "requests >=1.1",
+        "six"
+      ],
+      "license": "Apache Software License",
+      "md5": "b32217e7e2006f42b1abd4eb15552f60",
+      "name": "requests-mock",
+      "sha256": "006ef15155261b347c01584fd0941bc27d2480a567b2238909f6c32d43c16c89",
+      "sig": null,
+      "size": 43536,
+      "subdir": "linux-64",
+      "timestamp": 1500569543699,
+      "version": "1.3.0"
     },
     "setuptools-33.1.1-py27_0.tar.bz2": {
       "build": "py27_0",
