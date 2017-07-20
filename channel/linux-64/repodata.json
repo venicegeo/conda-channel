@@ -1143,6 +1143,21 @@
       "subdir": "linux-64",
       "version": "2.21"
     },
+    "werkzeug-0.11.11-py35_1.tar.bz2": {
+      "build": "py35_1",
+      "build_number": 1,
+      "depends": [
+        "python 3.5*"
+      ],
+      "license": "BSD",
+      "md5": "70be99bca5c79431e15b79441b2607b1",
+      "name": "werkzeug",
+      "sha256": "c9a88aaacf6600625c1a358e1670b9d1a54b849d4699d3e2571dd444658736e4",
+      "sig": null,
+      "size": 441358,
+      "subdir": "linux-64",
+      "version": "0.11.11"
+    },
     "wheel-0.29.0-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
