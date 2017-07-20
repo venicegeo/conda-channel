@@ -832,9 +832,9 @@
     "size": 620292,
     "version": "6.2"
   },
-  "requests-mock-1.0.0-py35he284458_0.tar.bz2": {
+  "requests-mock-1.1.0-py35he1bc0a4_0.tar.bz2": {
     "arch": "x86_64",
-    "build": "py35he284458_0",
+    "build": "py35he1bc0a4_0",
     "build_number": 0,
     "depends": [
       "pbr",
@@ -843,16 +843,16 @@
       "six"
     ],
     "license": "Apache Software License",
-    "md5": "e53328d8206f76c2e2a849f461dbac8c",
-    "mtime": 1500570452.599435,
+    "md5": "baa746e8f43fecc8755869e03a55f4cb",
+    "mtime": 1500570994.186093,
     "name": "requests-mock",
     "platform": "linux",
-    "sha256": "a1a175e133f4b565d6c706174e23e1ffc5a82b754ab33e958b7298312d9974dd",
+    "sha256": "98956230ac436b3cd6ae7fd544574b1a2dd83e0276616b94565db374336b8e19",
     "sig": null,
-    "size": 36910,
+    "size": 40624,
     "subdir": "linux-64",
-    "timestamp": 1500570452426,
-    "version": "1.0.0"
+    "timestamp": 1500570994023,
+    "version": "1.1.0"
   },
   "setuptools-33.1.1-py27_0.tar.bz2": {
     "arch": "x86_64",
