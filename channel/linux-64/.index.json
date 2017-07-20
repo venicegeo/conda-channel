@@ -854,28 +854,6 @@
     "timestamp": 1500570452426,
     "version": "1.0.0"
   },
-  "requests-mock-1.1.0-py27h36c596b_0.tar.bz2": {
-    "arch": "x86_64",
-    "build": "py27h36c596b_0",
-    "build_number": 0,
-    "depends": [
-      "pbr",
-      "python >=2.7,<2.8.0a0",
-      "requests >=1.1",
-      "six"
-    ],
-    "license": "Apache Software License",
-    "md5": "95ae2052571ef7269686a53a40668f36",
-    "mtime": 1500569730.0503411,
-    "name": "requests-mock",
-    "platform": "linux",
-    "sha256": "809203f329d01ad02d272adde0f9c79348a0a494bf104a1d83b74a60716b712b",
-    "sig": null,
-    "size": 38796,
-    "subdir": "linux-64",
-    "timestamp": 1500534723637,
-    "version": "1.1.0"
-  },
   "setuptools-33.1.1-py27_0.tar.bz2": {
     "arch": "x86_64",
     "build": "py27_0",
